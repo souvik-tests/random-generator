@@ -29,4 +29,5 @@ Hi, I'm Souvik Paul. I like to code and make tools that can be used by everyone.
 Thank you for coming to my repository.
 
 [Instagram](https://instagram.com/amisouvikpaul)
+|
 [Twitter](https://twitter.com/thesouvikpaul)
